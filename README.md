@@ -1,10 +1,10 @@
 ### Hi there👋
-### My name is Marina Okhrimenko 
+### My name is Marina
 
 I have a passion for Data Analysis. Graduated from Yandex Professional School of Data Analysis Course, continue studying and practicing,
 plan to learn deeply automatization processes of extracting and analyzing data.
 - Tools: Python (pandas, numpy, seaborn, matplotlib, plotly, scipy, sklearn etc.),
-PostgreSQL, Tableau, Jupyter Notebook, basic knowledge in HTML, CSS, JavaScript.
+PostgreSQL, Tableau, PowerBI, Excel, Google Sheets,Jupyter Notebook, basic knowledge in HTML, CSS, JavaScript.
 
 <!---
 MarinaDataAnalyst/MarinaDataAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
