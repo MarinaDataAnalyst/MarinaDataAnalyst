@@ -1,7 +1,7 @@
 ### Hi there👋
 ### My name is Marina
 
-With over seven years of experience in international logistics, supply chain management, project coordination and data analysis, I have worked for transport service and production companies.
+With over ten years of experience in international logistics, supply chain management, project coordination and data analysis, I have worked for transport service and production companies.
 I am proficient in managing complex supply chains, optimizing processes, and implementing sustainability initiatives.
 
 I have a passion for Data Analysis. Graduated from Yandex Professional School of Data Analysis Course, continue studying and practicing,
